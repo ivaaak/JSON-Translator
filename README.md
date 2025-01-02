@@ -5,7 +5,7 @@ A Web App built with React as a Frontend and Express as a Backend. It uses the A
 ## Backend: [json-translator Express Backend](https://github.com/ivaaak/json-translator/tree/main/backend)
 
 **Screenshots:**
-<img src="https://raw.githubusercontent.com/ivaaak/json-translator/main/frontend/public/screenshots/1.png"></img>
+<img src="https://github.com/ivaaak/JSON-Translator/blob/main/frontend/public/screenshots/1.png?raw=true"></img>
 
 ### Getting Started:
 You need the following API keys to add to a .env file in the `backend` folder:

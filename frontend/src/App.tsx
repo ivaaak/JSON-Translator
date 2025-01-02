@@ -1,6 +1,6 @@
 import React, { useState, ChangeEvent } from 'react';
 import { TranslationContent, TargetLanguage, TranslationResponse } from './types';
-import styles from './TranslationApp.module.css';
+import styles from './App.module.css';
 
 const App: React.FC = () => {
     const [selectedFile, setSelectedFile] = useState<string | null>(null);
